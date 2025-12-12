@@ -140,6 +140,9 @@ a{
     display: flex;
 
 }
+
+
+
 .ellips {
   
     animation: floatImage 6s ease-in-out infinite;
